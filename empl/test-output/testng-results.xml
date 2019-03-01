@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1759" started-at="2019-03-01T06:14:20Z" finished-at="2019-03-01T06:14:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1759" started-at="2019-03-01T06:14:20Z" finished-at="2019-03-01T06:14:22Z">
+      <class name="projectemployee.springprojectemployee.GetDataTest">
+        <test-method status="PASS" signature="testBody()[pri:0, instance:projectemployee.springprojectemployee.GetDataTest@cd2dae5]" name="testBody" duration-ms="1701" started-at="2019-03-01T06:14:20Z" finished-at="2019-03-01T06:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBody -->
+        <test-method status="PASS" signature="testResponsecode()[pri:0, instance:projectemployee.springprojectemployee.GetDataTest@cd2dae5]" name="testResponsecode" duration-ms="31" started-at="2019-03-01T06:14:21Z" finished-at="2019-03-01T06:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponsecode -->
+      </class> <!-- projectemployee.springprojectemployee.GetDataTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
